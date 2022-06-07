@@ -2,7 +2,7 @@
 
 ### ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.
 
-<p align="center"><a href="https://t.me/TechQuardSupport"><img src="https://te.legra.ph/file/3752041b671e0afc6ada2.jpg"></a></p>
+<p align="center"><a href="https://t.me/TechQuardSupport"><img src="https://te.legra.ph/file/5cc6a0670f8c5f056ef8a.jpg"></a></p>
 
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
@@ -18,4 +18,5 @@
 ### ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](https://t.me/simple_Mundaa)
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/TechQuardSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/TechQuardSupport"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-sᴜᴘᴘᴏʀᴛ%20sᴜᴘᴘᴏʀᴛ-black.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/TechQuard"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-ᴄʜᴀɴɴᴇʟ%20ᴜᴘᴅᴀᴛᴇ-black.svg?style=for-the-badge&logo=Telegram">

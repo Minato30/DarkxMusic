@@ -36,9 +36,7 @@ async def start_(client: Client, message: Message):
                     InlineKeyboardButton(
                         "• ɪɴʟɪɴᴇ •", switch_inline_query_current_chat=""
                     ),
-                    InlineKeyboardButton(
-                        "• ʏᴏᴜᴛᴜʙᴇ •", url="https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw"
-                    )]
+                    ]
             ]
        ),
     )

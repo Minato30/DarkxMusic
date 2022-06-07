@@ -205,7 +205,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("• sᴜᴩᴩᴏʀᴛ •", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("» ᴄʟᴏsᴇ «", callback_data="close_play")
+                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url=f"https://t.me/TechQuard")
+                ],
+                [InlineKeyboardButton("» ᴄʟᴏsᴇ «", callback_data="close_play")
                 ],
             ]
         ),
@@ -228,7 +230,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("• sᴜᴩᴩᴏʀᴛ •", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("» ᴄʟᴏsᴇ «", callback_data="close_play")
+                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url=f"https://t.me/TechQuard")
+                ],
+                [InlineKeyboardButton("» ᴄʟᴏsᴇ «", callback_data="close_play")
                 ],
             ]
         ),
